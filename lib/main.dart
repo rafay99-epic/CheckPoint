@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:todo/src/compoents/splash.dart';
+import 'package:flutter/services.dart';
+import 'package:todo/src/constants/colors.dart';
+import 'package:todo/src/screens/splash.dart';
 
 void main() {
   runApp(const MyApp());
@@ -10,9 +12,11 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    SystemChrome.setSystemUIOverlayStyle(
+        const SystemUiOverlayStyle(statusBarColor: Colors.transparent));
     return MaterialApp(
       theme: ThemeData(
-        colorScheme: ColorScheme.fromSeed(seedColor: Colors.white),
+        scaffoldBackgroundColor: tdBGColor,
         useMaterial3: true,
       ),
       home: const splash_screen(),

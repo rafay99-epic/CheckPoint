@@ -2,7 +2,7 @@ import 'dart:async';
 import 'package:flutter/material.dart';
 import 'package:lottie/lottie.dart';
 import 'package:page_transition/page_transition.dart';
-import 'package:todo/src/main/home.dart';
+import 'package:todo/src/screens/home.dart';
 
 class splash_screen extends StatefulWidget {
   const splash_screen({super.key});
@@ -32,11 +32,10 @@ class _splash_screenState extends State<splash_screen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-        backgroundColor: Colors.white,
         body: Column(
-          mainAxisAlignment: MainAxisAlignment.center,
-          crossAxisAlignment: CrossAxisAlignment.center,
-          children: [Lottie.asset(splash_screen._animation)],
-        ));
+      mainAxisAlignment: MainAxisAlignment.center,
+      crossAxisAlignment: CrossAxisAlignment.center,
+      children: [Lottie.asset(splash_screen._animation)],
+    ));
   }
 }
