@@ -1,4 +1,5 @@
 <br>
+<br>
 <p align="center">
     <a herf="https://future-insight.blog/">
     <img src="assets/icons/icons.png" alt="Future Insight"  width="230px" height="230px">
@@ -14,14 +15,17 @@
          width="35" />
      Welcome to Check Point Application
 </h1>
+<br>
+Welcome to Check Point – your passport to productivity! Crafted with Flutter, the Check Point App is your ultimate wingman in mastering the art of task management. Seamlessly create and conquer your to-do list with finesse, empowering you to navigate life's hustle effortlessly.
 
-The Check Point App is a user-friendly productivity application designed using Flutter, tailored to help users efficiently create and manage their to-do tasks.
-
+<br>
+<br>
 <div style="display: flex; justify-content: center;">
   <div style="justify-content: center; align-items: center; border-radius: 10px; overflow: hidden; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);">
     <img src="assets/ReadMe/CoverPageCheckPoint.png" alt="Check point Preview" style="display: block; max-width: 100%; height: auto; border-radius: 10px;">
   </div>
 </div>
+<br>
 <br>
 
 ## Project Structure
