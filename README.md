@@ -1,5 +1,4 @@
 <br>
-<br>
 <p align="center">
     <a herf="https://future-insight.blog/">
     <img src="assets/icons/icons.png" alt="Future Insight"  width="230px" height="230px">
