@@ -24,7 +24,7 @@ class _splash_screenState extends State<splash_screen> {
           PageTransition(
             child: const home(),
             type: PageTransitionType.fade,
-            duration: const Duration(milliseconds: 1),
+            duration: const Duration(seconds: 1, milliseconds: 30),
           ));
     });
   }

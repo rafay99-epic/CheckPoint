@@ -1,9 +1,10 @@
 // ignore: file_names
 import 'package:flutter/material.dart';
-import 'package:todo/src/constants/colors.dart';
 
+// ignore: camel_case_types
 class searchbox extends StatelessWidget {
-  const searchbox({super.key});
+  // const searchbox({super.key, required onChanges});
+  const searchbox({super.key, required onChanges});
 
   @override
   Widget build(BuildContext context) {
@@ -14,11 +15,11 @@ class searchbox extends StatelessWidget {
       child: const TextField(
         decoration: InputDecoration(
             contentPadding: EdgeInsets.all(0),
-            prefixIcon: Icon(Icons.search, color: tdBlack, size: 20),
+            prefixIcon: Icon(Icons.search, color: Colors.black, size: 20),
             prefixIconConstraints: BoxConstraints(maxHeight: 20, minWidth: 25),
             border: InputBorder.none,
             hintText: "Search Task",
-            hintStyle: TextStyle(color: tdGrey)),
+            hintStyle: TextStyle(color: Colors.grey)),
       ),
     );
   }
