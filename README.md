@@ -15,7 +15,6 @@
          width="35" />
      Welcome to Check Point Application
 </h1>
-<br>
 Welcome to Check Point – your passport to productivity! Crafted with Flutter, the Check Point App is your ultimate wingman in mastering the art of task management. Seamlessly create and conquer your to-do list with finesse, empowering you to navigate life's hustle effortlessly.
 
 <br>
