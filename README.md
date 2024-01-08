@@ -76,6 +76,8 @@ Replace `<platform>` with the desired target (e.g., apk, ios, web). This will pr
 ### Pre-built APK
 A pre-built APK file is available, allowing you to easily try out the application. Simply download the file and install the application on your system.
 
+You can access the APK file either in the [APK folder](/APK) or by simply [clicking here](/APK/Version-01.apk).
+
 # Contact 
 Email: [99marafay@gmail.com](mailto:99marafay@gmail.com)
 
@@ -85,4 +87,4 @@ About Me: [Future Insight Profile](https://future-insight.blog/author/)
 
 If you have any Problem regarding this Project then free will to contact me. 
 
-Developed with ❤️ using Flutter. 
+Developed with ❤️ using <img src="https://user-images.githubusercontent.com/25181517/186150365-da1eccce-6201-487c-8649-45e9e99435fd.png" width="20" height="20">
