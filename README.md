@@ -6,14 +6,13 @@
   <br>
 </p>
 
-<h1 align="center">
-    Hi there
+<h2 align="center">
     <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="35"
          width="35" />
-     Welcome to Check Point 
-</h1>
+    Hello and Welcome to Check Point
+</h2>
 Welcome to Check Point – your passport to productivity! Crafted with Flutter, the Check Point App is your ultimate wingman in mastering the art of task management. Seamlessly create and conquer your to-do list with finesse, empowering you to navigate life's hustle effortlessly.
 
 <br>
