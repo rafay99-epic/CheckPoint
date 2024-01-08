@@ -12,7 +12,7 @@
          alt="Waving hand animated gif"
          height="35"
          width="35" />
-     Welcome to Check Point Application
+     Welcome to Check Point 
 </h1>
 Welcome to Check Point – your passport to productivity! Crafted with Flutter, the Check Point App is your ultimate wingman in mastering the art of task management. Seamlessly create and conquer your to-do list with finesse, empowering you to navigate life's hustle effortlessly.
 
@@ -23,7 +23,6 @@ Welcome to Check Point – your passport to productivity! Crafted with Flutter, 
     <img src="assets/ReadMe/CoverPageCheckPoint.png" alt="Check point Preview" style="display: block; max-width: 100%; height: auto; border-radius: 10px;">
   </div>
 </div>
-<br>
 <br>
 
 ## Project Structure
@@ -79,7 +78,11 @@ A pre-built APK file is available, allowing you to easily try out the applicatio
 
 # Contact 
 Email: [99marafay@gmail.com](mailto:99marafay@gmail.com)
+
 Organization: [Future Insight](https://future-insight.blog/)
 
+About Me: [Future Insight Profile](https://future-insight.blog/author/)
+
 If you have any Problem regarding this Project then free will to contact me. 
-Developed with Love using Flutter. 
+
+Developed with ❤️ using Flutter. 
